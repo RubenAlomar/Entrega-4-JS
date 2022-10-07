@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(38, 3, 95);
+    color: orangered;
+    text-align: center;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 8px 11px 9px black;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 8px 11px 9px black;
+}
+#input {
+    width: 70%;
+    max-width: 200px;
+    height: 35px;
+    padding-left: 15px;
+    margin: 15px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 8px 11px 9px black;
+}
+#btn {
+    margin: 15pxS;
+    width: 100px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background: orangered;
+    box-shadow: 8px 11px 9px black;
+}
+#submit:hover {
+    background: white;
+    color: orangered;
+}
+img {
+    height: 400px;
+    width: 400px;
+
+
+}
+p {
+    color: yellow;
+    font-size: 2em;
+    text-shadow: 8px 11px 9px black;
+}
